@@ -12,4 +12,4 @@
 
 <h2>Como o jogo funciona?</h2>
 <p>Vai ser sorteado um número secreto, o jogador vai inserir seu palpite.
-Caso o paplpite seja maior ou menor que o número sorteado, vai aparecer uma nova tentativa. Acertando o número secreto vai ser exibido o número de tentativas e finalizado o jogo.</p>
+Caso o palpite seja maior ou menor que o número sorteado, vai aparecer uma nova tentativa. Acertando o número secreto vai ser exibido o número de tentativas e finalizado o jogo.</p>
